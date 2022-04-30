@@ -1,0 +1,83 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu&display=swap");
+* {
+  box-sizing: border-box;
+  font-family: "Ubuntu", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.heading{
+    list-style: none;
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 0;
+    color: #fff;
+}
+body {
+  justify-content: center;
+  align-items: center;
+  padding: 80px;
+  height: 100vh;
+  background-color: #069A8E;
+}
+
+#container {
+  margin-left: 24%;
+  margin-top: 60px;
+  width: 600px;
+  background-color: #85FFBD;
+background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
+
+  padding: 60px 35px;
+  box-shadow: 0 20px 25px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  justify-content: space-between;
+}
+
+.head {
+  font-size: 22px;
+  text-align: center;
+}
+.box {
+  width: 100%;
+}
+label .celcius {
+  color: lightgrey;
+}
+.celci {
+  margin-bottom: 20px;
+}
+
+input {
+  width: 100%;
+  outline: none;
+  height: 50px;
+  border-radius: 5px;
+  border: 2px solid lightgrey;
+  font-size: 18px;
+  margin-top: 8px;
+  padding: 0 10px;
+}
+
+input:focus {
+  border-color: #069A8E;
+}
+
+#clear{
+    font-family: "Ubuntu", sans-serif;
+    padding: 13px;
+    font-size: 18px;
+    background-color: #fff;
+    width: 100%;
+    outline: none;
+    height: 50px;
+    border-radius: 5px;
+    border: 2px solid lightgrey;
+    font-size: 18px;
+    margin-top: 8px;
+    padding: 0 10
+}
+#clear:hover{
+    border-color: #069A8E;
+    cursor: pointer;
+}
