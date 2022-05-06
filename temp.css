@@ -87,7 +87,7 @@ input:focus {
   }
   .heading{
     padding-top: 80px;
-    margin-left: 40px;
+    margin-left: 36px;
     font-size: 25px;
 }
 
@@ -97,7 +97,7 @@ body {
 }
 #container {
   align-items: center;
-  /* margin-right: 10px; */
+  margin-right: 50px;
   margin-top: 25px;
   width: 300px;
   padding: 15px 8.75px;
