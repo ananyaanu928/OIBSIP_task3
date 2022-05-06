@@ -104,23 +104,23 @@ body {
   border-radius: 2px;
 }
 .head {
-  font-size: 15px;
+  font-size: 16px;
 }
 .celci {
   margin-top: 7px;
 }
 input {
-  height: 26px;
+  height: 28px;
   border-radius: 3px;
   border: 1px solid lightgrey;
-  font-size: 5px;
+  font-size: 15px;
   margin-top: 2px;
   padding: 0 3px;
 }
 #clear{
   padding: 4px;
   font-size: 16px;
-  height: 26px;
+  height: 28px;
   border-radius: 3px;
   border: 1px solid lightgrey;
   margin-top: 2px;
